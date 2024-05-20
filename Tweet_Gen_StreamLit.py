@@ -13,11 +13,11 @@ party_dict = {
 }
 
 picture_paths = {
-    'blue_check': "/Users/ianfischer/Documents/Uni/streamlit/app_pictures/Twitter_Verified_Badge.svg.png",
-    'AfD' : "/Users/ianfischer/Documents/Uni/streamlit/app_pictures/afd_logo.png",
-    'CDU/CSU' : "/Users/ianfischer/Documents/Uni/streamlit/app_pictures/cdu_logo.png",
-    'Die Grünen' : "/Users/ianfischer/Documents/Uni/streamlit/app_pictures/gruene_logo.png",
-    'die Linke' : "/Users/ianfischer/Documents/Uni/streamlit/app_pictures/linke_logo.png"
+    'blue_check': "./app_pictures/Twitter_Verified_Badge.svg.png",
+    'AfD' : "./app_pictures/afd_logo.png",
+    'CDU/CSU' : "./app_pictures/cdu_logo.png",
+    'Die Grünen' : "./app_pictures/gruene_logo.png",
+    'die Linke' : "./app_pictures/linke_logo.png"
 }
 
 party_info = {
